@@ -269,7 +269,7 @@ img {
 }
 
 footer{
-    background: url('/img/back-footer.png') no-repeat top right;
+    background: url('../img/back-footer.png') no-repeat top right;
     background-size: contain;
     padding-top: 58vw;
     padding-bottom: 3vw;
